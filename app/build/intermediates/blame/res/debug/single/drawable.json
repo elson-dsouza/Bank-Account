@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "/home/elson/AndroidStudioProjects/accountstracker/app/build/intermediates/res/merged/debug/drawable/ic_search_transactions.jpg",
+        "source": "/home/elson/AndroidStudioProjects/accountstracker/app/src/main/res/drawable/ic_search_transactions.jpg"
+    },
+    {
+        "merged": "/home/elson/AndroidStudioProjects/accountstracker/app/build/intermediates/res/merged/debug/drawable/ic_recent_transactions.jpg",
+        "source": "/home/elson/AndroidStudioProjects/accountstracker/app/src/main/res/drawable/ic_recent_transactions.jpg"
+    },
+    {
+        "merged": "/home/elson/AndroidStudioProjects/accountstracker/app/build/intermediates/res/merged/debug/drawable/ic_add_account.jpg",
+        "source": "/home/elson/AndroidStudioProjects/accountstracker/app/src/main/res/drawable/ic_add_account.jpg"
+    },
+    {
+        "merged": "/home/elson/AndroidStudioProjects/accountstracker/app/build/intermediates/res/merged/debug/drawable/ic_list_accounts.png",
+        "source": "/home/elson/AndroidStudioProjects/accountstracker/app/src/main/res/drawable/ic_list_accounts.png"
+    },
+    {
+        "merged": "/home/elson/AndroidStudioProjects/accountstracker/app/build/intermediates/res/merged/debug/drawable/ic_add_transaction.jpg",
+        "source": "/home/elson/AndroidStudioProjects/accountstracker/app/src/main/res/drawable/ic_add_transaction.jpg"
+    },
+    {
+        "merged": "/home/elson/AndroidStudioProjects/accountstracker/app/build/intermediates/res/merged/debug/drawable/datepicker.png",
+        "source": "/home/elson/AndroidStudioProjects/accountstracker/app/src/main/res/drawable/datepicker.png"
+    },
+    {
+        "merged": "/home/elson/AndroidStudioProjects/accountstracker/app/build/intermediates/res/merged/debug/drawable/cell.xml",
+        "source": "/home/elson/AndroidStudioProjects/accountstracker/app/src/main/res/drawable/cell.xml"
+    }
+]
